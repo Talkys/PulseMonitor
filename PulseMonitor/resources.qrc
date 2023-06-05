@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>ligado.png</file>
+        <file>desligado.png</file>
+        <file>monitor</file>
+    </qresource>
+</RCC>
